@@ -54,6 +54,7 @@ import {
   glorious_brand_logo,
   iriscx_social_graphic,
   asv_construction,
+  accelerated,
 } from "../assets";
 
 
@@ -203,6 +204,21 @@ const experiences = [
       "Created custom Cresta fields to capture call keywords, reducing manual tracking time by 60%.",
       "Developed dynamic reporting dashboards to visualize call outcomes, enhancing sales team decision-making.",
       "Designed high-converting funnels and lead generation pages, increasing lead capture rates by up to 30%.",
+    ],
+  },
+  {
+    title: "Web Developer (Contract / Freelance)",
+    company_name: "Accelerated Tech Service",
+    icon: accelerated,
+    iconBg: "#FFFFFF",
+    date: "Dec 2025 - Present",
+    points: [
+      "Developed and maintained responsive website pages using HTML, CSS, and JavaScript.",
+      "Integrated website forms with Google Forms and automated data capture into Google Sheets for lead tracking and internal workflows.",
+      "Improved website structure, layout, and UI for better user experience and performance.",
+      "Implemented SEO improvements, including on-page optimization, semantic HTML, and performance best practices to enhance search visibility.",
+      "Conducted ongoing website updates, bug fixes, and content improvements based on business needs.",
+      "Collaborated with stakeholders to implement design and functionality enhancements efficiently.",
     ],
   },
 ];

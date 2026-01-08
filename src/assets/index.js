@@ -27,6 +27,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import glorious from "./company/glorious.jpg";
+import accelerated from "./company/accelerated.jpg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -92,6 +93,7 @@ export {
   starbucks,
   tesla,
   glorious,
+  accelerated,
   carrent,
   jobit,
   tripguide,
