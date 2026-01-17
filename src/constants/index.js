@@ -51,6 +51,7 @@ import {
   cosmic_explorer,
   adu_depot,
   asv_social_graphic,
+  n8n_lead_qualifier,
   glorious_brand_logo,
   iriscx_social_graphic,
   asv_construction,
@@ -325,6 +326,20 @@ const portfolioProjects = [
         ],
         image: n8n_chatbot,
         source_code_link: "https://drive.google.com/drive/folders/1FYifZ02TPN0SQSR1vqBpTGpwpFixJxUd?usp=sharing",
+      },
+      {
+        title: "AI Lead Qualifier Automation",
+        label: "n8n Automation",
+        description: "Built an intelligent lead qualification system that automatically analyzes incoming inquiries using AI and routes them based on qualification status. The system scores leads, provides reasoning, and logs everything to Google Sheets for sales team follow-up.",
+        tags: [
+          { name: "n8n", color: "pink-text-gradient" },
+          { name: "ai", color: "pink-text-gradient" },
+          { name: "automation", color: "blue-text-gradient" },
+          { name: "google-sheets", color: "green-text-gradient" },
+          { name: "llama-3.2", color: "orange-text-gradient" },
+        ],
+        image: n8n_lead_qualifier,
+        source_code_link: "https://drive.google.com/drive/folders/1NtBMRO_yKT5KeJWk3tKt6tOzAqxJvVpQ?usp=sharing",
       },
 
     ],

@@ -61,6 +61,7 @@ import weather_api_app from "./weather_api_app.png";
 import cosmic_explorer from "./cosmic_explorer.png";
 import adu_depot from "./adu_depot.png";
 import asv_social_graphic from "./asv_social_graphic.jpg";
+import n8n_lead_qualifier from "./n8n_lead_qualifier.png";
 import glorious_brand_logo from "./glorious_brand_logo.jpg";
 import iriscx_social_graphic from "./iriscx_social_graphic.png";
 import asv_construction from "./asv_construction.jpg";
@@ -124,6 +125,7 @@ export {
   cosmic_explorer,
   adu_depot,
   asv_social_graphic,
+  n8n_lead_qualifier,
   glorious_brand_logo,
   iriscx_social_graphic,
   asv_construction,
