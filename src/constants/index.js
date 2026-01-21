@@ -56,6 +56,7 @@ import {
   iriscx_social_graphic,
   asv_construction,
   accelerated,
+  n8n_retell_logger,
 } from "../assets";
 
 
@@ -342,6 +343,20 @@ const portfolioProjects = [
         source_code_link: "https://drive.google.com/drive/folders/1NtBMRO_yKT5KeJWk3tKt6tOzAqxJvVpQ?usp=sharing",
       },
 
+      {
+        title: "Simple Retell Call Logger",
+        label: "n8n Automation",
+        description: "Automates call logging from Retell AI. Captures call details, transcripts, recordings, and sentiment/status, logging them directly to Google Sheets for analysis.",
+        tags: [
+          { name: "n8n", color: "pink-text-gradient" },
+          { name: "automation", color: "blue-text-gradient" },
+          { name: "retell-ai", color: "orange-text-gradient" },
+          { name: "google-sheets", color: "green-text-gradient" },
+          { name: "voice-ai", color: "pink-text-gradient" },
+        ],
+        image: n8n_retell_logger,
+        source_code_link: "#",
+      },
     ],
   },
   {

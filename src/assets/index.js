@@ -65,6 +65,7 @@ import n8n_lead_qualifier from "./n8n_lead_qualifier.png";
 import glorious_brand_logo from "./glorious_brand_logo.jpg";
 import iriscx_social_graphic from "./iriscx_social_graphic.png";
 import asv_construction from "./asv_construction.jpg";
+import n8n_retell_logger from "./n8n_retell_logger.png";
 
 export {
   logo,
@@ -129,4 +130,5 @@ export {
   glorious_brand_logo,
   iriscx_social_graphic,
   asv_construction,
+  n8n_retell_logger,
 };
